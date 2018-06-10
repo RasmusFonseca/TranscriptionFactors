@@ -1,0 +1,112 @@
+Cell type	Tissue
+epidermal cell_Skin	Skin
+endothelial cell_Fat	Fat
+basal cell_Mammary_Gland	Mammary_Gland
+endothelial cell_Heart	Heart
+bladder cell_Bladder	Bladder
+leukocyte_Heart	Heart
+microglial cell_Brain_Myeloid	Brain_Myeloid
+immature T cell_Thymus	Thymus
+B cell_Spleen	Spleen
+macrophage_Kidney	Kidney
+mesenchymal stem cell of adipose_Fat	Fat
+fibroblast_Heart	Heart
+endocardial cell_Heart	Heart
+skeletal muscle satellite stem cell_Limb_Muscle	Limb_Muscle
+bladder urothelial cell_Bladder	Bladder
+skeletal muscle satellite cell_Limb_Muscle	Limb_Muscle
+basal cell of epidermis_Tongue	Tongue
+astrocyte_Brain_Non-Myeloid	Brain_Non-Myeloid
+keratinocyte_Tongue	Tongue
+granulocyte_Marrow	Marrow
+endothelial cell_Trachea	Trachea
+basophil_Marrow	Marrow
+keratinocyte stem cell_Skin	Skin
+basal cell of epidermis_Skin	Skin
+mesenchymal cell_Trachea	Trachea
+natural killer cell_Fat	Fat
+stromal cell_Lung	Lung
+lung endothelial cell_Lung	Lung
+oligodendrocyte_Brain_Non-Myeloid	Brain_Non-Myeloid
+endothelial cell_Brain_Non-Myeloid	Brain_Non-Myeloid
+Slamf1-positive multipotent progenitor cell_Marrow	Marrow
+megakaryocyte-erythroid progenitor cell_Marrow	Marrow
+epithelial cell of large intestine_Large_Intestine	Large_Intestine
+immature B cell_Marrow	Marrow
+Slamf1-negative multipotent progenitor cell_Marrow	Marrow
+large intestine goblet cell_Large_Intestine	Large_Intestine
+pancreatic A cell_Pancreas	Pancreas
+natural killer cell_Liver	Liver
+stem cell of epidermis_Skin	Skin
+neuron_Brain_Non-Myeloid	Brain_Non-Myeloid
+monocyte_Marrow	Marrow
+Brush cell of epithelium proper of large intestine_Large_Intestine	Large_Intestine
+late pro-B cell_Marrow	Marrow
+naive B cell_Marrow	Marrow
+granulocyte monocyte progenitor cell_Marrow	Marrow
+immature T cell_Marrow	Marrow
+cardiac muscle cell_Heart	Heart
+hepatocyte_Liver	Liver
+myeloid cell_Fat	Fat
+T cell_Spleen	Spleen
+endothelial cell_Kidney	Kidney
+leukocyte_Thymus	Thymus
+granulocytopoietic cell_Marrow	Marrow
+B cell_Fat	Fat
+oligodendrocyte precursor cell_Brain_Non-Myeloid	Brain_Non-Myeloid
+common lymphoid progenitor_Marrow	Marrow
+macrophage_Brain_Myeloid	Brain_Myeloid
+macrophage_Marrow	Marrow
+T cell_Fat	Fat
+type B pancreatic cell_Pancreas	Pancreas
+endothelial cell of hepatic sinusoid_Liver	Liver
+myeloid cell_Lung	Lung
+luminal epithelial cell of mammary gland_Mammary_Gland	Mammary_Gland
+macrophage_Spleen	Spleen
+B cell_Marrow	Marrow
+hematopoietic precursor cell_Marrow	Marrow
+kidney collecting duct epithelial cell_Kidney	Kidney
+pre-natural killer cell_Marrow	Marrow
+leukocyte_Pancreas	Pancreas
+Bergmann glial cell_Brain_Non-Myeloid	Brain_Non-Myeloid
+precursor B cell_Marrow	Marrow
+macrophage_Limb_Muscle	Limb_Muscle
+Kupffer cell_Liver	Liver
+pancreatic acinar cell_Pancreas	Pancreas
+blood cell_Trachea	Trachea
+epithelial cell of proximal tubule_Kidney	Kidney
+enterocyte of epithelium of large intestine_Large_Intestine	Large_Intestine
+pancreatic PP cell_Pancreas	Pancreas
+brain pericyte_Brain_Non-Myeloid	Brain_Non-Myeloid
+mature natural killer cell_Marrow	Marrow
+epithelial cell_Trachea	Trachea
+pancreatic ductal cell_Pancreas	Pancreas
+stromal cell_Mammary_Gland	Mammary_Gland
+endothelial cell_Pancreas	Pancreas
+endothelial cell_Mammary_Gland	Mammary_Gland
+professional antigen presenting cell_Heart	Heart
+monocyte_Lung	Lung
+erythrocyte_Heart	Heart
+immature natural killer cell_Marrow	Marrow
+pancreatic D cell_Pancreas	Pancreas
+classical monocyte_Lung	Lung
+B cell_Liver	Liver
+B cell_Lung	Lung
+leukocyte_Skin	Skin
+enteroendocrine cell_Large_Intestine	Large_Intestine
+DN1 thymic pro-T cell_Thymus	Thymus
+T cell_Lung	Lung
+natural killer cell_Lung	Lung
+epithelial cell of lung_Lung	Lung
+pancreatic stellate cell_Pancreas	Pancreas
+ciliated columnar cell of tracheobronchial tree_Lung	Lung
+endothelial cell_Limb_Muscle	Limb_Muscle
+smooth muscle cell_Heart	Heart
+regulatory T cell_Marrow	Marrow
+leukocyte_Kidney	Kidney
+leukocyte_Lung	Lung
+mesenchymal stem cell_Limb_Muscle	Limb_Muscle
+immature NK T cell_Marrow	Marrow
+B cell_Limb_Muscle	Limb_Muscle
+lymphocyte_Limb_Muscle	Limb_Muscle
+T cell_Limb_Muscle	Limb_Muscle
