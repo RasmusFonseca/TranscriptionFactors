@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Gene projection",
+      "tensorShape": [
+        1014,
+        114
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/RasmusFonseca/TranscriptionFactors/master/tensor_projection/gene_data.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/RasmusFonseca/TranscriptionFactors/master/tensor_projection/gene_metadata.tsv"
+    }
+  ]
+}
