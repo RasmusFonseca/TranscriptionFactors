@@ -7,7 +7,7 @@ The original excel sheet and an exported .csv file are located in the `input_dat
 
 The flareplot file and the script to generate it can be found in the `flareplot` folder. This repo has "pages" enabled, so the flareplot can be seen directly here:
 
-* [Flareplot link](https://rasmusfonseca.github.io/TranscriptionFactors/flareplot)
+* [Flareplot link](https://rasmusfonseca.github.io/TranscriptionFactors/flareplot/index.html)
 
 An issue with using gene co-expression as the definition for a flareplot edge is that all genes expressed in a particular cell type will form cliques and hence the graph will become very dense. I managed to pull it up and interact with it on my workstation, but my laptop seems to break down for now (I'll keep playing to find a workaround). 
 
