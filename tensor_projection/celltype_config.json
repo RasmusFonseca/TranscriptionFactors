@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Celltype projection",
+      "tensorShape": [
+        114,
+        1014
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/RasmusFonseca/TranscriptionFactors/master/tensor_projection/celltype_data.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/RasmusFonseca/TranscriptionFactors/master/tensor_projection/celltype_metadata.tsv"
+    }
+  ]
+}
