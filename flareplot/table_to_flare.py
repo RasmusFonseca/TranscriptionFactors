@@ -20,13 +20,13 @@ for colidx, col in enumerate(df.columns):
     #     break
     for r1 in range(df.shape[0]):
         r1_importance = df[col][r1]
-        if np.isnan(r1_importance):
+        if np.isnan(r1_importance) or r1_importance < 1.0:
             continue
         r1_name = row_names[r1]
 
         for r2 in range(r1):
             r2_importance = df[col][r2]
-            if np.isnan(r2_importance):
+            if np.isnan(r2_importance) or r2_importance < 1.0:
                 continue
             r2_name = row_names[r2]
 
